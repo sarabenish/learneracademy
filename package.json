@@ -1,7 +1,7 @@
 {
-  "homepage": "https://sarabenish.github.io/learnersacademy",
+  
   "type": "module",
-  "name": "learnersacademy",
+  "name": "learneracademy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
