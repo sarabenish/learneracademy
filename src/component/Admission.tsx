@@ -1,4 +1,4 @@
-import school from "../school.jpg";
+import school from "../assets/school.jpg";
 
 function Admission() {
   return (

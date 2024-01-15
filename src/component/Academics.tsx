@@ -1,6 +1,6 @@
-import pre from "../preschool.jpg";
-import junior from "../juniorschool.jpg";
-import senior from "../seniorschool.jpg";
+import pre from "../assets/preschool.jpg";
+import junior from "../assets/juniorschool.jpg";
+import senior from "../assets/seniorschool.jpg";
 
 function Academics() {
   return (

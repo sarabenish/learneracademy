@@ -1,4 +1,4 @@
-import alumni from "../alumni.jpeg";
+import alumni from "../assets/alumni.jpeg";
 function Alumni() {
   return (
     <>

@@ -1,4 +1,4 @@
-import cover from "../cover.jpg";
+import cover from "../assets/cover.jpg";
 import Event from "./Event";
 import "../App.css";
 import Academics from "./Academics";

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import school from "../school.jpg";
+import school from "../assets/school.jpg";
 import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "./Reducer";
 
