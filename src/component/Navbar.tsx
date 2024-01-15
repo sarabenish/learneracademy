@@ -16,6 +16,9 @@ function Navbar() {
           <Link className="nav-item nav-link disabled" to="/Admissions">
             Admissions
           </Link>
+          <Link className="nav-item nav-link" to="Hiring">
+            Hiring
+          </Link>
           <Link
             className="nav-item nav-link btn btn-outline-success my-2 my-sm-0"
             to="/Account"
