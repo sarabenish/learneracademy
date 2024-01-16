@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/learneracademy/static/css/main.94721038.css",
-    "main.js": "/learneracademy/static/js/main.6252d790.js",
+    "main.js": "/learneracademy/static/js/main.4ec94b0f.js",
     "static/js/787.111bb716.chunk.js": "/learneracademy/static/js/787.111bb716.chunk.js",
     "static/media/seniorschool.jpg": "/learneracademy/static/media/seniorschool.584d60bc4384248be993.jpg",
     "static/media/juniorschool.jpg": "/learneracademy/static/media/juniorschool.0ce280b972f130be532d.jpg",
@@ -12,11 +12,11 @@
     "static/media/school.jpg": "/learneracademy/static/media/school.9fe7818ac4136cb48bb2.jpg",
     "index.html": "/learneracademy/index.html",
     "main.94721038.css.map": "/learneracademy/static/css/main.94721038.css.map",
-    "main.6252d790.js.map": "/learneracademy/static/js/main.6252d790.js.map",
+    "main.4ec94b0f.js.map": "/learneracademy/static/js/main.4ec94b0f.js.map",
     "787.111bb716.chunk.js.map": "/learneracademy/static/js/787.111bb716.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94721038.css",
-    "static/js/main.6252d790.js"
+    "static/js/main.4ec94b0f.js"
   ]
 }
